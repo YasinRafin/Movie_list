@@ -85,9 +85,5 @@ def main():
             print("Invalid choice")
 
 
-
-        # # View favorite movies
-        # user_manager.view_favorite_movies()
-
 if __name__ == "__main__":
     main()
