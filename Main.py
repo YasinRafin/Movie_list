@@ -84,13 +84,7 @@ def main():
         else:
             print("Invalid choice")
 
-        # # Add to favorites
-        # movie_id = input("Enter the movie title to add to favorites: ")
-        # user_manager.add_to_favorites(movie_id)
 
-        # # Remove from favorites
-        # movie_id = input("Enter the movie title to remove from favorites: ")
-        # user_manager.remove_from_favorites(movie_id)
 
         # # View favorite movies
         # user_manager.view_favorite_movies()
